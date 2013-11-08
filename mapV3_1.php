@@ -94,9 +94,6 @@ elseif ($distance < 300)
 
 echo "var zoom=$zoom";
 
-?>
-
-
 
 ?>
 
